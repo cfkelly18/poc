@@ -1,1 +1,16 @@
 name = "poc"
+grpc_endpoint = 'http://localhost:9090'
+rpc_endpoint = 'http://localhost:26653'
+
+
+# chain_id = 'osmosis-1'
+network_variant = 'Local'
+
+[accounts.validator]
+mnemonic = 'issue have volume expire shoe year finish poem alien urban license undo rural endless food host opera fix forum crack wide example firm learn'
+
+[accounts.test1]
+mnemonic = 'opinion knife other balcony surge more bamboo canoe romance ask argue teach anxiety adjust spike mystery wolf alone torch tail six decide wash alley'
+
+[accounts.test2]
+mnemonic = 'logic help only text door wealth hurt always remove glory viable income agent olive trial female couch old offer crash menu zero pencil thrive'
